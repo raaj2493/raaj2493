@@ -1,11 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Ashutosh Giri</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=raaj2493">
-    <img src="https://komarev.com/ghpvc/?username=raaj2493&label=Profile%20views&color=00FFFF&style=flat-square" alt="raaj2493's profile views" />
-  </a>
-</p>
 
 ## 📌 About Me
 - I’m a Full Stack App Developer passionate about building modern, scalable, and AI-powered applications. My expertise spans mobile app development with Flutter, full-stack App development, and robust backend systems using Node.js, Express, and databases (SQL & NoSQL). I continuously expand my skills in Docker, ORMs, cloud platforms (Firebase, AWS, GCP), and AI-powered solutions to deliver innovative, data-driven, and cutting-edge digital experiences. I thrive on transforming ideas into intelligent applications that solve real-world challenges efficiently.
