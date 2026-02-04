@@ -7,7 +7,7 @@
 
 
 ## 🧠 My Focus Areas
-- Android || Flutter || Firebase || REST APIs || JavaScript || Node JS || MongoDB || SQL
+- Android || Flutter || GO || Firebase || REST APIs || JavaScript || GIN || MongoDB || SQL
 
 
 ## 📊 GitHub Stats & Trophies
