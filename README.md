@@ -2,7 +2,7 @@
   Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px">
   I'm Ashutosh Giri
 </h1>
-<h3 align="center">Software Developer | Full Stack App Developer</h3>
+<h3 align="center">Software Developer | Full Stack App Developer</h3>   
 
 ---
 
