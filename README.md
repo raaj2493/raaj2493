@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 About Me
+## 📌 About Me  
 - I’m a **Full Stack App Developer** passionate about building modern, scalable, and backend-driven applications.
 - I specialize in **Flutter for mobile apps** and **Go (Golang) for high-performance backend systems** using **Gin**, REST APIs, and SQL/NoSQL databases.
 - I actively work with **Firebase**, **PostgreSQL**, **MongoDB**, and follow clean architecture principles.
