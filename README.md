@@ -25,10 +25,16 @@
 ---
 
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raaj2493&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=raaj2493&theme=radical&hide_border=true&cache_seconds=86400" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raaj2493&show_icons=true&theme=radical&hide_border=true&v=1" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raaj2493&theme=radical&hide_border=true&v=1" width="49%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raaj2493&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
 
 ---
 
