@@ -11,7 +11,7 @@
 - I specialize in **Flutter for mobile apps** and **Go (Golang) for high-performance backend systems** using **Gin**, REST APIs, and SQL/NoSQL databases.
 - I actively work with **Firebase**, **PostgreSQL**, **MongoDB**, and follow clean architecture principles.  
 - Currently expanding my skills in **Docker, Cloud (Firebase, AWS, GCP)**, and backend system design.
-- I enjoy turning real-world problems into efficient, scalable, and production-ready applications.
+- I enjoy turning real-world problems into efficient, scalable, and production-ready applications.  
 
 ---
 
