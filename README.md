@@ -96,4 +96,4 @@
 ---
 
 ## 💬 Quote
-> "Build fast. Break less. Scale endlessly. 🚀".  fix the github stats image in this readme github file
+> "Build fast. Break less. Scale endlessly. 🚀"
