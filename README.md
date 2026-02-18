@@ -1,8 +1,9 @@
 <h1 align="center">
-  Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif " height="30px" width="30px">
+  Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px">
   I'm Ashutosh Giri
 </h1>
-<h3 align="center">Software Developer | Full Stack App Developer</h3>   
+
+<h3 align="center">Software Developer | Full Stack App Developer</h3>
 
 ---
 
@@ -27,14 +28,13 @@
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raaj2493&show_icons=true&theme=radical&hide_border=true&v=1 " width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raaj2493&theme=radical&hide_border=true&v=1 " width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raaj2493&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=raaj2493&theme=radical&hide_border=true&cache_seconds=1800" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raaj2493&theme=radical&no-frame=true&row=1&column=6 " />
+  <img src="https://github-profile-trophy.vercel.app/?username=raaj2493&theme=radical&no-frame=true&row=1&column=6&margin-w=10" />
 </p>
-
 
 ---
 
@@ -42,54 +42,54 @@
 
 ### Programming Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg " width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg " width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg " width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg " width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/>
 </p>
 
 ### Backend
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg " width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png " width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="48"/>
 </p>
 
 ### Database
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg " width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg " width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg " width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48"/>
 </p>
 
 ### DevOps & Cloud
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg " width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg " width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48"/>
 </p>
 
 ### Tools
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg " width="48" height="48"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg " width="48" height="48"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg " width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaj2493&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400 "/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaj2493&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=1800"/>
 </p>
 
 ---
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajgiri2493/ " target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg " width="40"/>
+  <a href="https://www.linkedin.com/in/rajgiri2493/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/>
   </a>
-  <a href="https://x.com/raj_ash2493 " target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg " width="40"/>
+  <a href="https://x.com/raj_ash2493" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="40"/>
   </a>
-  <a href="https://ashutosh-giri-resume.vercel.app/ " target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg " width="40"/>
+  <a href="https://ashutosh-giri-resume.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40"/>
   </a>
 </p>
 
