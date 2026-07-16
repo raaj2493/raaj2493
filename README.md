@@ -10,11 +10,11 @@
 ---
 
 ## 📌 About Me  
-- I’m a **Computer Science Student** and **Full Stack Software Engineer** passionate about building production-ready software.
-- I specialize in **Backend Engineering** (Go, REST APIs, microservices) and **AI Engineering** (LLMs, RAG, intelligent agents).
-- **Flutter** is my go-to for mobile and frontend development, delivering cross‑platform experiences.
-- I work extensively with **PostgreSQL**, **MongoDB**, **Redis**, and **Firebase**, following **Clean Architecture** and **Repository Pattern**.
-- I’m deeply invested in **System Design**, **DevOps**, and cloud-native deployment with **Docker**, **Kubernetes**, **AWS**, and **GCP**.
+- I’m a **Computer Science Student** and **Full Stack Software Engineer** passionate about building production-ready software.  
+- I specialize in **Backend Engineering** (Go, REST APIs, microservices) and **AI Engineering** (LLMs, RAG, intelligent agents).  
+- **Flutter** is my go-to for mobile and frontend development, delivering cross‑platform experiences.  
+- I work extensively with **PostgreSQL**, **MongoDB**, **Redis**, and **Firebase**, following **Clean Architecture** and **Repository Pattern**.  
+- I’m deeply invested in **System Design**, **DevOps**, and cloud-native deployment with **Docker**, **Kubernetes**, **AWS**, and **GCP**.  
 - I enjoy turning complex problems into scalable, efficient, and maintainable solutions.
 
 ---
@@ -58,35 +58,11 @@
 
 ## 🛠️ Languages & Tools
 
-### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,dart,javascript,java,python" />
+  <img src="https://skillicons.dev/icons?i=go,dart,javascript,java,python,nodejs,graphql,express,flutter,firebase,postgresql,mongodb,mysql,redis,docker,kubernetes,linux,nginx,aws,gcp,githubactions,git,github,vscode,postman,androidstudio,idea&perline=14" />
 </p>
 
-### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,graphql,express" />
-</p>
-
-### Frontend & Mobile
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase" />
-</p>
-
-### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis" />
-</p>
-
-### DevOps & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,aws,gcp,githubactions" />
-</p>
-
-### Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio,idea" />
-</p>
+<p align="center"><em>Backend (Go, Node.js, GraphQL) · Mobile (Flutter) · Databases (PostgreSQL, MongoDB, MySQL, Redis, Firebase) · DevOps (Docker, Kubernetes, AWS, GCP, GitHub Actions) · Tools (Git, VS Code, Postman, Android Studio, IntelliJ)</em></p>
 
 ---
 
