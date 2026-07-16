@@ -60,26 +60,30 @@
 
 <div align="left">
 
-**Programming Languages**  
-Go · Dart · JavaScript · Java · Python · SQL
+### 💻 Programming Languages
+- Go · Dart · JavaScript · Java · Python · SQL
 
-**Backend**  
-Go · Node.js · GraphQL · Express · Gin · REST APIs · gRPC · WebSockets · JWT · OAuth
+### ⚙️ Backend Engineering
+- Go · Node.js · GraphQL · Express · Gin  
+- REST APIs · gRPC · WebSockets · JWT · OAuth  
+- Microservices · Distributed Systems · Clean Architecture · Repository Pattern
 
-**Frontend & Mobile**  
-Flutter · Firebase
+### 📱 Frontend & Mobile
+- Flutter · Firebase
 
-**Databases**  
-PostgreSQL · MongoDB · MySQL · Redis · Firebase
+### 🗄️ Databases
+- PostgreSQL · MongoDB · MySQL · Redis · Firebase
 
-**DevOps & Cloud**  
-Docker · Kubernetes · Linux · Nginx · AWS · GCP · GitHub Actions · CI/CD
+### ☁️ DevOps & Cloud
+- Docker · Kubernetes · Linux · Nginx · AWS · GCP · GitHub Actions · CI/CD
 
-**Developer Tools**  
-Git · GitHub · VS Code · Postman · Android Studio · IntelliJ IDEA
+### 🛠️ Developer Tools
+- Git · GitHub · VS Code · Postman · Android Studio · IntelliJ IDEA
 
-**Additional Expertise**  
-Microservices · Distributed Systems · Clean Architecture · Repository Pattern · Caching (Redis) · Load Balancing · Message Queues (Kafka, RabbitMQ) · CQRS · Event Sourcing · Performance Monitoring · Security (JWT, OAuth) · OpenAPI · LLMs · RAG · Embeddings · AI Agents · Vector Databases
+### 🧠 Additional Expertise
+- Caching (Redis) · Load Balancing · Message Queues (Kafka, RabbitMQ)  
+- CQRS · Event Sourcing · Performance Monitoring · Security (JWT, OAuth)  
+- OpenAPI · LLMs · RAG · Embeddings · AI Agents · Vector Databases
 
 </div>
 
