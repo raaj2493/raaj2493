@@ -58,35 +58,30 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
-  <strong>Programming Languages</strong><br>
-  Go · Dart · JavaScript · Java · Python
-</p>
+<div align="left">
 
-<p align="center">
-  <strong>Backend</strong><br>
-  Go · Node.js · GraphQL · Express
-</p>
+**Programming Languages**  
+Go · Dart · JavaScript · Java · Python · SQL
 
-<p align="center">
-  <strong>Frontend & Mobile</strong><br>
-  Flutter · Firebase
-</p>
+**Backend**  
+Go · Node.js · GraphQL · Express · Gin · REST APIs · gRPC · WebSockets · JWT · OAuth
 
-<p align="center">
-  <strong>Databases</strong><br>
-  PostgreSQL · MongoDB · MySQL · Redis · Firebase
-</p>
+**Frontend & Mobile**  
+Flutter · Firebase
 
-<p align="center">
-  <strong>DevOps & Cloud</strong><br>
-  Docker · Kubernetes · Linux · Nginx · AWS · GCP · GitHub Actions
-</p>
+**Databases**  
+PostgreSQL · MongoDB · MySQL · Redis · Firebase
 
-<p align="center">
-  <strong>Tools</strong><br>
-  Git · GitHub · VS Code · Postman · Android Studio · IntelliJ IDEA
-</p>
+**DevOps & Cloud**  
+Docker · Kubernetes · Linux · Nginx · AWS · GCP · GitHub Actions · CI/CD
+
+**Developer Tools**  
+Git · GitHub · VS Code · Postman · Android Studio · IntelliJ IDEA
+
+**Additional Expertise**  
+Microservices · Distributed Systems · Clean Architecture · Repository Pattern · Caching (Redis) · Load Balancing · Message Queues (Kafka, RabbitMQ) · CQRS · Event Sourcing · Performance Monitoring · Security (JWT, OAuth) · OpenAPI · LLMs · RAG · Embeddings · AI Agents · Vector Databases
+
+</div>
 
 ---
 
