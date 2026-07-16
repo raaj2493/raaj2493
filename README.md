@@ -59,10 +59,34 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,dart,javascript,java,python,nodejs,graphql,express,flutter,firebase,postgresql,mongodb,mysql,redis,docker,kubernetes,linux,nginx,aws,gcp,githubactions,git,github,vscode,postman,androidstudio,idea&perline=14" />
+  <strong>Programming Languages</strong><br>
+  Go · Dart · JavaScript · Java · Python
 </p>
 
-<p align="center"><em>Backend (Go, Node.js, GraphQL) · Mobile (Flutter) · Databases (PostgreSQL, MongoDB, MySQL, Redis, Firebase) · DevOps (Docker, Kubernetes, AWS, GCP, GitHub Actions) · Tools (Git, VS Code, Postman, Android Studio, IntelliJ)</em></p>
+<p align="center">
+  <strong>Backend</strong><br>
+  Go · Node.js · GraphQL · Express
+</p>
+
+<p align="center">
+  <strong>Frontend & Mobile</strong><br>
+  Flutter · Firebase
+</p>
+
+<p align="center">
+  <strong>Databases</strong><br>
+  PostgreSQL · MongoDB · MySQL · Redis · Firebase
+</p>
+
+<p align="center">
+  <strong>DevOps & Cloud</strong><br>
+  Docker · Kubernetes · Linux · Nginx · AWS · GCP · GitHub Actions
+</p>
+
+<p align="center">
+  <strong>Tools</strong><br>
+  Git · GitHub · VS Code · Postman · Android Studio · IntelliJ IDEA
+</p>
 
 ---
 
