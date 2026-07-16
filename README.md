@@ -10,21 +10,32 @@
 ---
 
 ## 📌 About Me  
-- I’m a **Full Stack Software Engineer** passionate about building modern, scalable, and backend-driven applications.
-- I specialize in **Flutter for mobile apps** and **Go (Golang) for high-performance backend systems** using **Gin**, REST APIs, and SQL/NoSQL databases.
-- I actively work with **Firebase**, **PostgreSQL**, **MongoDB**, and follow clean architecture principles.
-- My focus areas include **Backend Engineering**, **AI Engineering**, **System Design**, and **DevOps**.
-- I enjoy turning real-world problems into efficient, scalable, and production-ready applications.
+- I’m a **Computer Science Student** and **Full Stack Software Engineer** passionate about building production-ready software.
+- I specialize in **Backend Engineering** (Go, REST APIs, microservices) and **AI Engineering** (LLMs, RAG, intelligent agents).
+- **Flutter** is my go-to for mobile and frontend development, delivering cross‑platform experiences.
+- I work extensively with **PostgreSQL**, **MongoDB**, **Redis**, and **Firebase**, following **Clean Architecture** and **Repository Pattern**.
+- I’m deeply invested in **System Design**, **DevOps**, and cloud-native deployment with **Docker**, **Kubernetes**, **AWS**, and **GCP**.
+- I enjoy turning complex problems into scalable, efficient, and maintainable solutions.
 
 ---
 
-## 🧠 Focus Areas
+## 🎯 Current Mission  
+- Building production-grade software with a focus on reliability and performance.  
+- Mastering Backend Engineering (distributed systems, concurrency, gRPC).  
+- Mastering AI Engineering (LLMs, embeddings, vector databases).  
+- Designing scalable systems that handle real‑world loads.  
+- Contributing to Open Source and sharing knowledge with the community.
+
+---
+
+## 🧠 Focus Areas  
 - Flutter • Mobile Development  
-- Go (Golang) • Gin • REST APIs  
-- Backend Architecture • Microservices  
-- PostgreSQL • MongoDB • Firebase  
-- Clean Architecture • System Design  
-- Docker • Cloud (AWS, GCP)
+- Go (Golang) • Gin • REST / gRPC  
+- Backend Architecture • Microservices • Clean Code  
+- PostgreSQL • MongoDB • Redis • Firebase  
+- AI & LLMs • RAG • Vector Databases  
+- System Design • Caching • Message Queues  
+- Docker • Kubernetes • AWS • GCP • CI/CD
 
 ---
 
@@ -49,32 +60,32 @@
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,dart,javascript,java,python,sql" height="40" />
+  <img src="https://skillicons.dev/icons?i=go,dart,javascript,java,python" />
 </p>
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,graphql,express" height="40" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,graphql,express" />
 </p>
 
 ### Frontend & Mobile
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase" height="40" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase" />
 </p>
 
 ### Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis" />
 </p>
 
 ### DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,aws,gcp,githubactions" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,aws,gcp,githubactions" />
 </p>
 
 ### Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio,idea" height="40" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio,idea" />
 </p>
 
 ---
