@@ -42,16 +42,16 @@
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raaj2493&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=raaj2493&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raaj2493&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=raaj2493&theme=tokyonight&hide_border=true&v=2" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaj2493&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaj2493&layout=compact&theme=tokyonight&hide_border=true&v=2" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raaj2493&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=raaj2493&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&v=2" />
 </p>
 
 ---
