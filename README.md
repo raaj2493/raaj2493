@@ -11,7 +11,7 @@
 
 ## 📌 About Me  
 - I’m a **Computer Science Student** and **Full Stack Software Engineer** passionate about building production-ready software.  
-- I specialize in **Backend Engineering** (Go, REST APIs, microservices) and **AI Engineering** (LLMs, RAG, intelligent agents).  
+- I specialize in **Backend Engineering** (Go, REST APIs, microservices) and **AI Engineering** (LLMs, RAG, intelligent agents).    
 - **Flutter** is my go-to for mobile and frontend development, delivering cross‑platform experiences.  
 - I work extensively with **PostgreSQL**, **MongoDB**, **Redis**, and **Firebase**, following **Clean Architecture** and **Repository Pattern**.  
 - I’m deeply invested in **System Design**, **DevOps**, and cloud-native deployment with **Docker**, **Kubernetes**, **AWS**, and **GCP**.  
